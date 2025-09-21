@@ -20,3 +20,7 @@ Here are some screenshots of the game Day-night cycle and the procedural generat
 <img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s2.png?raw=true">
 <img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s3.png?raw=true">
 <img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s4.png?raw=true">
+
+<h2>Future</h2>
+
+While im not planning to spend so much time on this game, but there are some features that id really like to add, one of them being having dinosaurs that spawns randomly in the map when u keep exploring, a mechanism to find ur friendly camp, Weapons, meat, collecting wood, hatchets, mounting dinosaurs more enemies and a way to expand your village, building.
