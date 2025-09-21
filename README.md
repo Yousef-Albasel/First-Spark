@@ -16,7 +16,7 @@ The enemy character is the first AI that i developed fully on my own, i added ka
 
 Here are some screenshots of the game Day-night cycle and the procedural generated world, thought the game itself may have a different look as iam always updating it.
 
-<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s1.png?raw=true"">
-<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s2.png?raw=true"">
-<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s3.png?raw=true"">
-<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s4.png?raw=true"">
+<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s1.png?raw=true">
+<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s2.png?raw=true">
+<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s3.png?raw=true">
+<img src = "https://github.com/Yousef-Albasel/First-Spark/blob/main/screenshots/s4.png?raw=true">
